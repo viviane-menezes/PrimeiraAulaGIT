@@ -13,7 +13,7 @@ Este é um projeto de software desenvolvido para [descrição breve do objetivo 
 
 ## Diagramas
 
-![Diagrama de Caso de Uso](assets/Caso%20de%20Uso%20em%20Diagrama.png)
+![Diagrama de Caso de Uso](assets/Caso de Uso em Diagrama.png
 
 
 
