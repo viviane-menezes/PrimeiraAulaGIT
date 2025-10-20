@@ -11,9 +11,10 @@ Este é um projeto de software desenvolvido para [descrição breve do objetivo 
 - src/ - Código-fonte do software
 - assets/ - Imagens, diagramas e arquivos complementares
 
-## Imagens
+## Diagramas
 
-![Descrição da imagem](./assets/nome-da-imagem.png)
+![Diagrama de Caso de Uso](assets/Caso%20de%20Uso%20em%20Diagrama.png)
+
 
 
 ## Documentação
